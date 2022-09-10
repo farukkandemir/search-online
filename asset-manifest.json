@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/search-online/static/css/main.b3c029b4.css",
+    "main.js": "/search-online/static/js/main.b2b394fd.js",
+    "index.html": "/search-online/index.html",
+    "main.b3c029b4.css.map": "/search-online/static/css/main.b3c029b4.css.map",
+    "main.b2b394fd.js.map": "/search-online/static/js/main.b2b394fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c029b4.css",
+    "static/js/main.b2b394fd.js"
+  ]
+}
