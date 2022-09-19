@@ -18,7 +18,7 @@ export function ResultContextProvider({children}) {
     headers: {
       "X-User-Agent": "desktop",
       "X-Proxy-Location": "US",
-      "X-RapidAPI-Key": "4c988abb2cmsh8c5a2a37964c8afp1e96adjsn7e3048f6f758",
+      "X-RapidAPI-Key": "",
       "X-RapidAPI-Host": "google-search3.p.rapidapi.com",
     },
   };
